@@ -13,3 +13,15 @@ SValidation is a deep learning-based framework designed to validate structural v
 
 # Installation
 
+✅ Operation System
+
+Ubuntu 20.04+ (including WSL)
+
+CentOS 7+
+
+📦 From Source
+
+
+
+
+
