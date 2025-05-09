@@ -5,7 +5,10 @@ SValidation is a deep learning-based framework designed to validate structural v
 
 
 
-<img src="fig1.png" alt="example" width="60%" height="40%"/>
+<p align="center">
+  <img src="fig1.png" alt="example" height="60%">
+</p>
+
 
 
 # Installation
