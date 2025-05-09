@@ -30,8 +30,6 @@ cd SValidation
 conda env create -f environment.yml
 conda activate sv-validation
 python setup.py install
+```
 
-
-
-
-
+#Usage
