@@ -44,5 +44,17 @@ To run SV validation with default settings, you only need to provide:
 - `--out_path`: the directory to save validation results
 - `--threads`: number of threads to use
 
+### Run Example
+
+```bash
+python run_validation.py \
+  --bam_path /path/to/your.bam \
+  --vcf_path /path/to/your.vcf \
+  --ref_path /path/to/your.fasta \
+  --out_path /path/to/output_dir \
+  --threads 8
+```
+
+
 
 
