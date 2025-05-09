@@ -22,15 +22,13 @@ SValidation is a deep learning-based framework designed to validate structural v
 ## 📦 From Source
 
 ```bash
-# 1. Clone the repository
+# Clone the repository
 git clone https://github.com/kefazhang/SValidation.git
 cd SValidation
 
-# 2. Create conda environment and install dependencies
+# Create conda environment and install dependencies
 conda env create -f environment.yml
 conda activate sv-validation
-
-# 3. (Optional) Install as a Python package
 python setup.py install
 
 
