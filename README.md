@@ -32,4 +32,17 @@ conda activate sv-validation
 python setup.py install
 ```
 
-#Usage
+# 🚀 Usage
+
+### Required Input/Ouput parameters
+
+To run SV validation with default settings, you only need to provide:
+
+- `--bam_path`: the aligned BAM file
+- `--vcf_path`: the structural variant file (VCF)
+- `--ref_path`: the reference genome (FASTA)
+- `--out_path`: the directory to save validation results
+- `--threads`: number of threads to use
+
+
+
